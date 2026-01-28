@@ -8,4 +8,4 @@ export default function SearchBar({ search, onSearchChange }) {
       onChange={(e) => onSearchChange(e.target.value)}
     />
   );
-}
+} 

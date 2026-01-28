@@ -7,5 +7,5 @@ export default function CountriesList({ countries }) {
                 <CountryCard key={country.cca3} country={country} />
             ))}
         </div>
-    );
+    ); 
 }

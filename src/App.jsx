@@ -15,7 +15,7 @@ function App() {
     async function fetchCountries() {
       setLoading(true);
       setError(null);
-
+ 
       try {
         let url = "https://restcountries.com/v3.1/all";
 

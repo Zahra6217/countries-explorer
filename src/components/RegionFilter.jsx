@@ -13,4 +13,4 @@ export default function RegionFilter({ region, onRegionChange }) {
             <option value="Oceania">Oceania</option>
         </select>
     );
-}
+} 

@@ -28,7 +28,7 @@ h1 {
     border-radius: 6px;
     border: 1px solid #ccc;
 }
-
+ 
 .countries-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
